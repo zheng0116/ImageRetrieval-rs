@@ -2,3 +2,4 @@
 /test
 /quary
 cargo.lock
+tracing
